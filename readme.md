@@ -15,9 +15,11 @@ It can be synthesised in VIVADO 2023.1 and you can upload the bitstream on [ZYBO
 
 ## about the project
 
- As a student who is truely interested in AI and FPGA, I started this project to study AI accelerator in basic level. Thanks to [matbi](https://semisgdh.com/), I could build this project. I simply changed some lines in his code. The code is private for his paid lecture. you can get synthesisable verilog code and some great idea in his lecture. (matbi youtube : https://www.youtube.com/c/aifpga)
+ As a student who is truely interested in AI and FPGA, I started this project to study AI accelerator in basic level. Thanks to [matbi youtube](https://www.youtube.com/@verilog), I could make this project. I highly recommend you this chanel if you are interested in FPGA.
 
 
 
 ## how it works
+
+<img src="/img/block_diagram.png" width="450px" height="300px" alt="BlockDiagram"></img><br/>
 
